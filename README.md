@@ -1,1 +1,1 @@
-this is the portfolio.
+use this portfolio appropriately.
